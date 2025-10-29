@@ -1,15 +1,26 @@
 
 import './App.css'
-import { IoIosNotificationsOutline } from "react-icons/io";
+
+import Navbar from './components/navbar/Navbar';
+import Hero from './components/hero/Hero';
+import Table from './components/active-auctions/Table';
 
 function App() {
 
 
   return (
-    <>
-      <h1 className='text-shadow-fuchsia-300'>haha now its under my control ok</h1>
-      <IoIosNotificationsOutline/>
-    </>
+    <div className="min-h-screen bg-white">
+      <section>
+        <Navbar></Navbar>
+      </section>
+        <div>
+          <Hero></Hero>
+        </div>
+        <div>
+          <Table></Table>
+        </div>
+      
+    </div>
   )
 }
 
