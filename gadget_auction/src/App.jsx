@@ -1,14 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
+import { IoIosNotificationsOutline } from "react-icons/io";
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-      <h1>haha now its under my control</h1>
+      <h1 className='text-shadow-fuchsia-300'>haha now its under my control ok</h1>
+      <IoIosNotificationsOutline/>
     </>
   )
 }
