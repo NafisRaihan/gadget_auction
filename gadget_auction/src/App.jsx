@@ -3,9 +3,13 @@ import './App.css'
 
 import Navbar from './components/navbar/Navbar';
 import Hero from './components/hero/Hero';
-import Table from './components/active-auctions/Table';
+import Items from './components/active-auctions/Items'
+
+
 
 function App() {
+
+
 
 
   return (
@@ -17,7 +21,7 @@ function App() {
           <Hero></Hero>
         </div>
         <div>
-          <Table></Table>
+         <Items></Items>
         </div>
       
     </div>

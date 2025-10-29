@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=400&h=300&fit=crop",
+    "title": "Vintage Leica M3 Camera",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=400&h=300&fit=crop",
+    "title": "Original Apple Macintosh 128K (1984)",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5c6c6bd6eaf?w=400&h=300&fit=crop",
+    "title": "Rolex Submariner 16610",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&h=300&fit=crop",
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop",
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "current_bid": 2850,
+    "time_left_days": 2
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop",
+    "title": "Banksy Original Screen Print",
+    "current_bid": 2850,
+    "time_left_days": 2
+  }
+]
